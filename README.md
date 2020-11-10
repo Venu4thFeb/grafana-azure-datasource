@@ -18,6 +18,10 @@ Grafana **Azure plus** datasource plugin provides additional azure capabilities 
 
 ![image](https://user-images.githubusercontent.com/153843/82420772-178b9c80-9a78-11ea-8294-2d0500aa3592.png)
 
+## Azure service health
+
+![image](https://user-images.githubusercontent.com/153843/98687662-e5416480-2361-11eb-902c-be61ca3623a1.png)
+
 ## Installation
 
 There are multiple ways to install this plugin
