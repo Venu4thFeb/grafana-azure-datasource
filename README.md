@@ -39,7 +39,7 @@ grafana-cli --pluginUrl https://github.com/yesoreyeram/grafana-azure-datasource/
 ```
 #### Using helm chart
 
-If you use help chart to provision grafana, use the following config to install the plugin
+If you use helm chart to provision grafana, use the following config to install the plugin
 
 ```
 plugins:
