@@ -2,7 +2,7 @@
 
 ![Build & Publish](https://github.com/yesoreyeram/grafana-azure-datasource/workflows/Build%20&%20Publish/badge.svg?branch=master)
 
-Grafana **Azure plus** datasource plugin provides additional azure capabilities to grafana. For examples and screenshots, refer [here](https://github.com/yesoreyeram/grafana-azure-datasource/issues/5).
+Grafana **Azure plus** datasource plugin provides additional azure capabilities to grafana. 
 
 ## Features
 
@@ -86,5 +86,3 @@ Following template variable queries are supported
 - `ResourceGraph(YOUR RESOURCE GRAPH QUERY GOES HERE)`
 
 If the Resource graph query return two column, first column will be considered as display value and the second column will be considered as actual value. 
-
-Sample template variable queries are given [here](https://github.com/yesoreyeram/grafana-azure-datasource/issues/5#issuecomment-666500009).
